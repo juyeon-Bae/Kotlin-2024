@@ -10,7 +10,7 @@ class Person{
       age = age_
       address = address_
    }
-
+//부생성자로 상속
    constructor(name_: String){
       this.name = name_
       this.age = 18
